@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Claude Code development artifacts — not part of the project
+.claude/
+CLAUDE.md
+RESUME.md
